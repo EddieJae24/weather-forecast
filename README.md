@@ -15,16 +15,21 @@
 
   ## Installation
   node js
-
-
-  ## Usage
- 1. Clone the repository " git clone https://github.com/EddieJae24/weather-dashboard.git "
+1. Clone the repository " git clone https://github.com/EddieJae24/weather-dashboard.git "
   2. Navigate into the project directory
   3. Install the dependencies -- npm i
   4. Create .env file in the root directory and add Open Weather API key: "OPENWEATHER_API_KEY=your_api_key_here"
   5. Start the server
   6. Open your browser and navigate to http://localhost:3000
 
+
+  ## Usage
+  1. Enter the name of a city in the search bar and click "Search".
+  2. View the current weather and a 5-day forecast for the selected city.
+  3. The searched city will be saved to your search history and displayed as a button for quick access.
+  4. Click on a city in the search history to view its weather again.
+  5. Use the "Delete" button next to a city in the history to remove it.
+  
   ## Credits
   None yet
   
